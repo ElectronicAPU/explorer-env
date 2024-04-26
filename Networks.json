@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Explorer",
+        "url": "https://www.google.com/",
+        "group": "Mainnets",
+        "isActive": true,
+        "icon": "https://raw.githubusercontent.com/ElectronicAPU/explorer-env/main/public/scout_logo-removebg-preview.png"
+    },
+    {
+        "title": "Explorer",
+        "url": "https://www.google.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/ElectronicAPU/explorer-env/main/public/scout_logo-removebg-preview.png"
+    },
+    {
+        "title": "Faucet",
+        "url": "https://www.google.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/ElectronicAPU/explorer-env/main/public/scout_logo-removebg-preview.png"
+    }
+]
