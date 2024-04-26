@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Product",
+        "links": [
+            {
+                "text": "Website",
+                "url": "https://www.google.com/"
+            },
+            {
+                "text": "Stake",
+                "url": "https://www.google.com/"
+            },
+            {
+                "text": "Swap",
+                "url": "https://www.google.com/"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Telegram",
+                "url": "https://www.google.com/"
+            },
+            {
+                "text": "Twitter",
+                "url": "https://www.google.com/"
+            },
+            {
+                "text": "github",
+                "url": "https://www.google.com/"
+            },
+            {
+                "text": "Discord",
+                "url": "https://www.google.com/"
+            }
+        ]
+    }
+]
