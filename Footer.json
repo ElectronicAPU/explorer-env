@@ -21,25 +21,25 @@
         "links": [
             {
                 "icon": "social/telega",
-                "iconSize": "16px",
+                "iconSize": "1px",
                 "text": "Telegram",
                 "url": "https://www.google.com/"
             },
             {
                 "icon": "social/twitter",
-                "iconSize": "16px",
+                "iconSize": "1px",
                 "text": "Twitter",
                 "url": "https://www.google.com/"
             },
             {
                 "icon": "social/git",
-                "iconSize": "16px",
+                "iconSize": "1px",
                 "text": "github",
                 "url": "https://www.google.com/"
             },
             {
                 "icon": "social/discord",
-                "iconSize": "16px",
+                "iconSize": "1px",
                 "text": "Discord",
                 "url": "https://www.google.com/"
             }
